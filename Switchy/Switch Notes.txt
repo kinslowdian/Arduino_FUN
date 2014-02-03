@@ -1,0 +1,3 @@
+Switch
+
+In between the live and LED and the switch, wire GND into NC (Normally closed) and the other into C

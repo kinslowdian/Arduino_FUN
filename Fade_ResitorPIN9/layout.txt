@@ -1,0 +1,13 @@
+Flow:
+Board > Resistor > Blue lead > LED > GND
+
+RESISTOR:
+1	:	D9 Pin > Breadboard
+		D7 Pin line > Breadboard
+
+BLUE:
+D7 Pin line	> LED0
+
+BROWN:
+GND > Breadboard > LED0
+

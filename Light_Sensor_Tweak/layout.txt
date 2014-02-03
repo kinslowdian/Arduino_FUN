@@ -1,0 +1,16 @@
+Flow:
+Board > Blue lead LED & RESISTOR > SENSOR > LED > GND
+
+RESISTOR:
+1	:	A0 Pin > Breadboard
+		A3 Pin line > Breadboard
+
+BLUE:
+A3 Pin
+
+BROWN:
+GND > Breadboard > LED0
+
+SENSOR:
+A0 Pin
+5V Pin
